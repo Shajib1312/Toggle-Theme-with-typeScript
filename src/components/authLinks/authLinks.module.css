@@ -1,0 +1,20 @@
+.link {
+    cursor: pointer;
+
+
+    transition: all 0.3s ease-in-out 0.2s;
+}
+
+.write {
+    transition: all 0.3s ease-in-out 0.2s;
+}
+
+.link:hover {
+
+    color: red;
+
+}
+
+.write:hover {
+    color: rgb(19, 246, 11);
+}
